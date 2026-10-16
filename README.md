@@ -1,12 +1,5 @@
 <h1 align="center">Hi, there! It's Imane! 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Machine+Learning;Predictive+Modeling;Data+Mining;Python%2C+SQL+and+Power+BI" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khtibimane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ---
 
