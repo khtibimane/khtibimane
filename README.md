@@ -1,6 +1,5 @@
 <h1 align="center">Hi, there! It's Imane! 👋</h1>
 
-
 ---
 
 ## 🚀 About Me
