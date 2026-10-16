@@ -1,5 +1,7 @@
 <h1 align="center">Hi, there! It's Imane! 👋</h1>
 
+<p align="center"><b>Machine Learning · Predictive Modeling · Data Mining</b></p>
+
 ---
 
 ## 🚀 About Me
