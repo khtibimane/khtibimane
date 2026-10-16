@@ -1,12 +1,11 @@
 <h1 align="center">Hi, there! It's Imane! 👋</h1>
 
-<p align="center"><b>Machine Learning · Predictive Modeling · Data Mining</b></p>
 
 ---
 
 ## 🚀 About Me
 
-I am ✨ **Imane Khtib** ✨, recently graduated with my master's in Business Analytics from the **University of Hartford**, where I built my knowledge and skills in machine learning, predictive modeling, and data mining. With hands-on experience from the University of Hartford and the **American Red Cross**, I have honed my abilities in cleaning and validating data, analyzing patterns and trends, creating impactful data visualizations, and building machine learning models that predict outcomes. My passion lies in using data-driven insights to solve complex problems and drive business strategies. I'm proficient in Python, SQL, and Power BI, and I'm always eager to learn and explore the latest trends in data science and machine learning. Let's connect and explore the fascinating world of data together!
+I am ✨ **Imane Khtib** ✨, recently graduated with my master's in Business Analytics from the **University of Hartford**, where I built my knowledge and skills in machine learning, predictive modeling, and data mining. With hands-on experience from the **University of Hartford** and the **American Red Cross**, I have honed my abilities in cleaning and validating data, analyzing patterns and trends, creating impactful data visualizations, and building machine learning models that predict outcomes. My passion lies in using data-driven insights to solve complex problems and drive business strategies. I'm proficient in Python, SQL, and Power BI, and I'm always eager to learn and explore the latest trends in data science and machine learning. Let's connect and explore the fascinating world of data together!
 
 ---
 
