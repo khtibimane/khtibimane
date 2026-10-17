@@ -19,13 +19,13 @@ I am ✨ **Imane Khtib** ✨, recently graduated with my master's in Business An
 
 ---
 
-## 🛠 Skills
 
-* **Programming languages:** Python, SQL
-* **Data Visualization/Business Intelligence:** Power BI, Excel, Matplotlib, Seaborn
-* **Data Analysis/Machine Learning:** Scikit-Learn, Pandas, NumPy, Predictive Modeling, Logistic Regression, Random Forest, Classification, Model Evaluation (ROC-AUC), EDA, Data Cleaning, Data Mining
-* **Databases/CRM:** PostgreSQL, Salesforce, Jupyter Notebook, GitHub
-* **Deployment/Cloud:** Flask, AWS
+## 🛠️ Skills
+
+- **Programming Languages:** Python, SQL
+- **Data Visualization / Business Intelligence:** Power BI (DAX, Power Query, Dashboards), Excel (PivotTables, XLOOKUP), Matplotlib, Seaborn
+- **Data Analysis / Machine Learning:** Scikit-Learn, Pandas, NumPy, Predictive Modeling, Logistic Regression, Random Forest, Model Evaluation (ROC-AUC), Exploratory Data Analysis (EDA), Data Cleaning, Cohort Analysis
+- **Databases / CRM / Tools:** PostgreSQL (Common Table Expressions, Window Functions), Salesforce (Customer Relationship Management, CRM), Jupyter Notebook, GitHub
 
 ---
 
